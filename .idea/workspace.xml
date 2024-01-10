@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lesson 12-2&#10;except ex. № 13, 14" />
+    <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lesson 12-2 fix error">
+      <change afterPath="$PROJECT_DIR$/Lesson_12-3/12-3-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +67,7 @@
     "Python.12-2-7.executor": "Run",
     "Python.12-2-8.executor": "Run",
     "Python.12-2-9.executor": "Run",
+    "Python.12-3-6.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -124,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704828008060</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson 12-2 fix error">
+      <option name="closed" value="true" />
+      <created>1704903987157</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704903987157</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +172,7 @@
     <MESSAGE value="exam for dictionary" />
     <MESSAGE value="lesson 12-1" />
     <MESSAGE value="lesson 12-2&#10;except ex. № 13, 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 12-2&#10;except ex. № 13, 14" />
+    <MESSAGE value="lesson 12-2 fix error" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 12-2 fix error" />
   </component>
 </project>
