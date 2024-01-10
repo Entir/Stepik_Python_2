@@ -1,6 +1,7 @@
 import random
 import string
 
+
 def generate_password(length):
     exclude = 'lI1oO0'
 
@@ -14,7 +15,7 @@ def generate_password(length):
 
     for i in range(length - 3):
         flag = True
-        while flag == True:
+        while flag:
             x = random.choice(string.ascii_letters + string.digits)
             if x not in exclude:
                 pasw.append(x)
@@ -22,9 +23,11 @@ def generate_password(length):
     random.shuffle(pasw)
     print(*pasw, sep='')
 
+
 def generate_passwords(count, length):
     for i in range(count):
         generate_password(length)
+
 
 n, m = int(input()), int(input())
 
