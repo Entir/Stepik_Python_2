@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lesson 13-1-13">
-      <change afterPath="$PROJECT_DIR$/Lesson_13-2/13-2-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lesson 13-2-6">
+      <change afterPath="$PROJECT_DIR$/Lesson_13-2/13-2-7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +70,7 @@
     "Python.12-3-8.executor": "Run",
     "Python.13-1-11.executor": "Run",
     "Python.13-2-6.executor": "Run",
+    "Python.13-2-7.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -187,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704997136848</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="lesson 13-2-6">
+      <option name="closed" value="true" />
+      <created>1705336714125</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1705336714125</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +237,7 @@
     <MESSAGE value="lesson 13-1-11" />
     <MESSAGE value="lesson 13-1-12" />
     <MESSAGE value="lesson 13-1-13" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 13-1-13" />
+    <MESSAGE value="lesson 13-2-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 13-2-6" />
   </component>
 </project>
