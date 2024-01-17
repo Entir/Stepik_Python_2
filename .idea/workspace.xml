@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lessons 14-1-6">
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_14-1/14-1-7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lessons 14-1-8">
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_14-1/14-1-9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +82,8 @@
     "Python.14-1-5.executor": "Run",
     "Python.14-1-6.executor": "Run",
     "Python.14-1-7.executor": "Run",
+    "Python.14-1-8.executor": "Run",
+    "Python.14-1-9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -320,7 +321,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705516203460</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="lessons 14-1-7">
+      <option name="closed" value="true" />
+      <created>1705516768735</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1705516768735</updated>
+    </task>
+    <task id="LOCAL-00028" summary="lessons 14-1-8">
+      <option name="closed" value="true" />
+      <created>1705517090596</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1705517090596</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,7 +358,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create project" />
     <MESSAGE value="exam for dictionary" />
     <MESSAGE value="lesson 12-1" />
     <MESSAGE value="lesson 12-2&#10;except ex. № 13, 14" />
@@ -365,6 +381,8 @@
     <MESSAGE value="lessons 14-1-4" />
     <MESSAGE value="lessons 14-1-5" />
     <MESSAGE value="lessons 14-1-6" />
-    <option name="LAST_COMMIT_MESSAGE" value="lessons 14-1-6" />
+    <MESSAGE value="lessons 14-1-7" />
+    <MESSAGE value="lessons 14-1-8" />
+    <option name="LAST_COMMIT_MESSAGE" value="lessons 14-1-8" />
   </component>
 </project>
