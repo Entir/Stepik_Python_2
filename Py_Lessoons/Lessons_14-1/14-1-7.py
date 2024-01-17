@@ -8,6 +8,6 @@ def hexagon(side):
 
 
 for _ in range(6):
-    turtle.forward(100)
+    turtle.forward(50)
     turtle.left(60)
-    hexagon(100)
+    hexagon(50)
