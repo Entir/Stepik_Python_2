@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lessons 14-1-13">
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-1/15-1-16.py" afterDir="false" />
+    <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lessons 15-1-16">
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-2/15-2-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-2/15-2-11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-2/15-2-12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-2/15-2-13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-2/15-2-14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-2/15-2-15.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +95,12 @@
     "Python.14-1-8.executor": "Run",
     "Python.14-1-9.executor": "Run",
     "Python.15-1-16.executor": "Run",
+    "Python.15-2-10.executor": "Run",
+    "Python.15-2-11.executor": "Run",
+    "Python.15-2-12.executor": "Run",
+    "Python.15-2-13.executor": "Run",
+    "Python.15-2-14.executor": "Run",
+    "Python.15-2-15.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -383,7 +394,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705518405704</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="lessons 15-1-16">
+      <option name="closed" value="true" />
+      <created>1705596748558</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1705596748558</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -404,7 +423,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson 13-1-10" />
     <MESSAGE value="lesson 13-1-11" />
     <MESSAGE value="lesson 13-1-12" />
     <MESSAGE value="lesson 13-1-13" />
@@ -429,14 +447,15 @@
     <MESSAGE value="lessons 14-1-11" />
     <MESSAGE value="lessons 14-1-12" />
     <MESSAGE value="lessons 14-1-13" />
-    <option name="LAST_COMMIT_MESSAGE" value="lessons 14-1-13" />
+    <MESSAGE value="lessons 15-1-16" />
+    <option name="LAST_COMMIT_MESSAGE" value="lessons 15-1-16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Py_Lessoons/Lessons_15-1/15-1-16.py</url>
-          <line>9</line>
+          <line>10</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
