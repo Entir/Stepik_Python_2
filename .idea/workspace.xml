@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lessons 15-1-16">
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-2/15-2-10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-2/15-2-11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-2/15-2-12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-2/15-2-13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-2/15-2-14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-2/15-2-15.py" afterDir="false" />
+    <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lessons 15-2">
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-4/15-4-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-4/15-4-11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-4/15-4-12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-4/15-4-13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-4/15-4-14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,6 +100,9 @@
     "Python.15-2-13.executor": "Run",
     "Python.15-2-14.executor": "Run",
     "Python.15-2-15.executor": "Run",
+    "Python.15-4-10.executor": "Run",
+    "Python.15-4-11.executor": "Run",
+    "Python.15-4-12.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -402,7 +404,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705596748558</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="lessons 15-2">
+      <option name="closed" value="true" />
+      <created>1705951494795</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1705951494795</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -423,7 +433,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson 13-1-11" />
     <MESSAGE value="lesson 13-1-12" />
     <MESSAGE value="lesson 13-1-13" />
     <MESSAGE value="lesson 13-2-6" />
@@ -448,7 +457,8 @@
     <MESSAGE value="lessons 14-1-12" />
     <MESSAGE value="lessons 14-1-13" />
     <MESSAGE value="lessons 15-1-16" />
-    <option name="LAST_COMMIT_MESSAGE" value="lessons 15-1-16" />
+    <MESSAGE value="lessons 15-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lessons 15-2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
