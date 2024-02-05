@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lessons 15-8">
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-8/15-8-10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-8/15-8-11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-8/15-8-12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-8/15-8-13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-8/15-8-14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-8/15-8-9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-8/15-8-15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-8/15-8-16.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,6 +112,7 @@
     "Python.15-8-12.executor": "Run",
     "Python.15-8-13.executor": "Run",
     "Python.15-8-14.executor": "Run",
+    "Python.15-8-16.executor": "Run",
     "Python.15-8-5.executor": "Run",
     "Python.15-8-6.executor": "Run",
     "Python.15-8-7.executor": "Run",
@@ -454,7 +451,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706728669711</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="lessons 15-8">
+      <option name="closed" value="true" />
+      <created>1706813123727</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1706813123727</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
