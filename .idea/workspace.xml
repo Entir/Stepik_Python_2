@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lessons 15-8 done!">
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-9/15-9-10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-9/15-9-11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-9/15-9-12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-9/15-9-13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-9/15-9-14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-9/15-9-8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_15-9/15-9-9.py" afterDir="false" />
+    <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lessons 15-9">
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_16/16-1-15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_16/16-1-16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_16/16-3-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_16/16-3-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_16/16-3-11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_16/16-3-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_16/16-3-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_16/16-3-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_16/16-3-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_16/16-3-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_16/16-3-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_16/16-3-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_16/16-3-9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,6 +131,16 @@
     "Python.15-8-9.executor": "Run",
     "Python.15-9-8.executor": "Run",
     "Python.15-9-9.executor": "Run",
+    "Python.16-1-15.executor": "Run",
+    "Python.16-1-16.executor": "Run",
+    "Python.16-3-1.executor": "Run",
+    "Python.16-3-2.executor": "Run",
+    "Python.16-3-3.executor": "Run",
+    "Python.16-3-4.executor": "Run",
+    "Python.16-3-5.executor": "Run",
+    "Python.16-3-6.executor": "Run",
+    "Python.16-3-7.executor": "Run",
+    "Python.16-3-8.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -474,7 +490,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707155421681</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="lessons 15-9">
+      <option name="closed" value="true" />
+      <created>1707242557303</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1707242557303</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -495,7 +519,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson 13-2-7" />
     <MESSAGE value="lesson 13-2-8" />
     <MESSAGE value="lesson 13-2-9" />
     <MESSAGE value="lesson 13-2-11" />
@@ -520,7 +543,8 @@
     <MESSAGE value="lessons 15-7" />
     <MESSAGE value="lessons 15-8" />
     <MESSAGE value="lessons 15-8 done!" />
-    <option name="LAST_COMMIT_MESSAGE" value="lessons 15-8 done!" />
+    <MESSAGE value="lessons 15-9" />
+    <option name="LAST_COMMIT_MESSAGE" value="lessons 15-9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
