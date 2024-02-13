@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lessons 16 Exam done">
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-2/17-2-11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-2/17-2-12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-2/17-2-13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-2/17-2-14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-2/17-2-15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-2/17-2-16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-2/nums.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-2/prices.txt" afterDir="false" />
+    <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lessons 17-2">
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-3/17-3-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-3/17-3-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-3/17-3-9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-3/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-3/lines.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,16 +135,19 @@
     "Python.16-3-8.executor": "Run",
     "Python.17-2-15.executor": "Run",
     "Python.17-2-16.executor": "Run",
+    "Python.17-3-8.executor": "Run",
+    "Python.17-3-9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Python/Stepik_Python_2/Stepik_Python_2/Py_Lessoons/Lessons_17-2",
+    "last_opened_file_path": "D:/Python/Stepik_Python_2/Stepik_Python_2/Py_Lessoons/Lessons_17-3",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "settings.editor.splitter.proportion": "0.3058104"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\Stepik_Python_2\Stepik_Python_2\Py_Lessoons\Lessons_17-3" />
       <recent name="D:\Python\Stepik_Python_2\Stepik_Python_2\Py_Lessoons\Lessons_17-2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -507,7 +507,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707337389627</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="lessons 17-2">
+      <option name="closed" value="true" />
+      <created>1707763082137</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1707763082137</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -528,7 +536,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson 13-2-9" />
     <MESSAGE value="lesson 13-2-11" />
     <MESSAGE value="lesson 13-2-12" />
     <MESSAGE value="lesson 13-2-13" />
@@ -553,7 +560,8 @@
     <MESSAGE value="lessons 15-8 done!" />
     <MESSAGE value="lessons 15-9" />
     <MESSAGE value="lessons 16 Exam done" />
-    <option name="LAST_COMMIT_MESSAGE" value="lessons 16 Exam done" />
+    <MESSAGE value="lessons 17-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lessons 17-2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
