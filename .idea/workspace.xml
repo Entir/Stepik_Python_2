@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lessons 17-3 done">
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-4/17-4-12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-4/17-4-13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-4/17-4-14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-4/answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-4/class_scores.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-4/goats.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-4/logfile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-4/new_scores.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-4/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Stepik_Python_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Stepik_Python_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-4/17-4-11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Py_Lessoons/Lessons_17-4/17-4-11.py" afterDir="false" />
-    </list>
+    <list default="true" id="88c906c4-5bb0-4e4f-9152-5b9b2762cb27" name="Changes" comment="lessons 17-4 done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +40,7 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -542,7 +528,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707936249144</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="lessons 17-4 done">
+      <option name="closed" value="true" />
+      <created>1708274203290</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1708274203290</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -556,6 +550,17 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
@@ -564,7 +569,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="lesson 13-2-12" />
     <MESSAGE value="lesson 13-2-13" />
     <MESSAGE value="move lesson to folder" />
     <MESSAGE value="lessons 13-2" />
@@ -589,7 +593,8 @@
     <MESSAGE value="lessons 16 Exam done" />
     <MESSAGE value="lessons 17-2" />
     <MESSAGE value="lessons 17-3 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="lessons 17-3 done" />
+    <MESSAGE value="lessons 17-4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lessons 17-4 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

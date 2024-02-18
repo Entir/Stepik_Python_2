@@ -1,5 +1,5 @@
 def minutes(x):
-    res=[int(i) for i in x.split(':')]
+    res = [int(i) for i in x.split(':')]
     return res[0]*60+res[1]
 
 
